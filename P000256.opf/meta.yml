@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ཨེ་ཝཾ་གྱི་རྣམ་བཤད།
+  authors:
+  - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  sku: SHE-DKR-10
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: A Commentary on the meaning of E-Wam
+    bo: ཨེ་ཝཾ་གྱི་རྣམ་བཤད།
+  collection:
+    en: Dilgo Khyentse Series–  Book 10
+    bo: དིལ་མགོ་མཁྱེན་བཙེ་གསུང་འབུམ།–  དེབ། ༡༠
+  author:
+    en: Kyabje Dilgo Khyentse Rinpoche
+    bo: ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-DKR-10
+  category:
+    en: Uncategorized
+    bo: Uncategorized @tib
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-DKR-10.epub
+  description:
+    en: ''
+    bo: ''
