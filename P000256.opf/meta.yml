@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000256
+initial_creation_type: ebook
+source_metadata:
   title: ཨེ་ཝཾ་གྱི་རྣམ་བཤད།
   authors:
   - མཛད་པ་པོ། ༧སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བཙེ་རིན་པོ་ཆེ།
-  sku: SHE-DKR-10
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-DKR-10
 web_metadata:
   title:
     en: A Commentary on the meaning of E-Wam
